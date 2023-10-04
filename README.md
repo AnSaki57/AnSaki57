@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnSaki57
 - 👀 I’m interested in C,Python,Javascript,C++
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
