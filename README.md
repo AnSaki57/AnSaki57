@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnSaki57
-- 👀 I’m interested in C,Python,Javascript,C++
-- 🌱 I’m currently learning C, C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C++, C, Python, Javascript
+- 🌱 I’m seeking to learn Java, Haskell, Rust
+- 💞️ I’m looking to collaborate on any nice, interesting projects!
 - 📫 How to reach me -> anakalasashikiran@gmail.com
 
 <!---
